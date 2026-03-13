@@ -1,0 +1,6 @@
+[28312:23696:0312/132634.992:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28312:16272:0312/132635.226:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28312:23696:0312/132635.309:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28312:23696:0312/132642.859:ERROR:device_event_log_impl.cc(196)] [13:26:42.665] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[22884:17032:0312/132643.561:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1D40A8FA07188B83040E7E152A02522B will be ignored
+[28312:23696:0312/145831.749:ERROR:device_event_log_impl.cc(196)] [14:58:31.459] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
